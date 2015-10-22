@@ -2,14 +2,35 @@
     <channel>
         <title><![CDATA[Gardnerlaundromat]]></title>
         <description><![CDATA[Gardnerlaundromat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gardnerlaundromat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 18:31:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 18:43:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gardnerlaundromat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.licdn.com/media/p/3/005/010/2ff/3276b6d.png">]]></description>
+            <link>https://thegrid.ai/gardnerlaundromat/3356956a-b17a-4966-8d20-b93f9611b88d/index.html</link>
+            <guid isPermaLink="false">3356956a-b17a-4966-8d20-b93f9611b88d</guid>
+            <pubDate>Thu, 22 Oct 2015 18:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/f6006e44-4c03-4c67-bdf0-68bd51297d2d.jpg">]]></description>
+            <link>https://thegrid.ai/gardnerlaundromat/12ed958c-9fed-4772-9f1a-04f03a4c5970/index.html</link>
+            <guid isPermaLink="false">12ed958c-9fed-4772-9f1a-04f03a4c5970</guid>
+            <pubDate>Thu, 22 Oct 2015 18:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/gardnerlaundromat/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">627089b3-a346-4ccb-9150-c39409ad0e62</guid>
+            <pubDate>Thu, 22 Oct 2015 18:36:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Budget Coin - Gardners Only Laundromat has installed brand new Washers and Dryers while also adding new amenities like TV, Free-Wifi and even some drinks and snacks.  We hope that everyone enjoys the changes.</p>]]></description>
-            <link>undefined5cd25fe7-7cae-40d2-9376-843a05564765/index.html</link>
+            <link>https://thegrid.ai/gardnerlaundromat/5cd25fe7-7cae-40d2-9376-843a05564765/index.html</link>
             <guid isPermaLink="false">5cd25fe7-7cae-40d2-9376-843a05564765</guid>
             <pubDate>Thu, 22 Oct 2015 18:31:21 GMT</pubDate>
         </item>
